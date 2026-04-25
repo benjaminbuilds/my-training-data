@@ -169,6 +169,7 @@ jobs:
             if ! git diff --quiet README.md; then
               git add README.md
               git commit -m "Update last sync timestamp: ${SYNC_TIME}"
+              git pull --rebase origin main
               git push
               echo "✅ README updated with sync time: ${SYNC_TIME}"
             else
