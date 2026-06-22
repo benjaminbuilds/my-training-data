@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-06-21T23:45:24.997707",
+  "generated_at": "2026-06-22T00:52:52.613210",
   "version": "3.108",
   "script_hash": "41b49b1747e6",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i154908386",
-      "date": "2026-06-07",
-      "type": "VirtualRide",
-      "name": "MyWhoosh - Recovery 30",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1966,
-          "avg_power": 179,
-          "max_power": 202,
-          "avg_hr": 117,
-          "max_hr": 129,
-          "avg_cadence": 85.475586,
-          "zone": 2,
-          "training_load": 23.327442,
-          "decoupling": 3.1168635
-        }
-      ]
-    },
     {
       "activity_id": "i155172730",
       "date": "2026-06-08",
