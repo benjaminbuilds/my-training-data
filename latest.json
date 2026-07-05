@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-05T00:04:35.215897",
+    "last_updated": "2026-07-05T04:19:24.633086",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.108"
@@ -140,7 +140,7 @@
     },
     "phase_context": {
       "phase": "Base",
-      "phase_week": 1,
+      "phase_week": 2,
       "amber_threshold": 2,
       "modifier_applied": "default"
     },
@@ -151,8 +151,8 @@
   },
   "history": {
     "available": true,
-    "last_generated": "2026-05-25",
-    "age_days": 40,
+    "last_generated": "2026-07-05",
+    "age_days": 0,
     "total_months": 35,
     "history_confidence": "high"
   },
@@ -241,7 +241,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 624,
+      "steps": 40274,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -449,8 +449,8 @@
       ],
       "basis": {
         "stream_1": {
-          "ctl_slope": null,
-          "acwr_trend": null,
+          "ctl_slope": -2.95,
+          "acwr_trend": "falling",
           "hard_day_pattern": 0.7,
           "weeks_available": 4
         },
@@ -467,8 +467,8 @@
         "data_quality": "good",
         "stream_agreement": null
       },
-      "previous_phase": null,
-      "phase_duration_weeks": 1,
+      "previous_phase": "Base",
+      "phase_duration_weeks": 2,
       "dossier_declared": null,
       "dossier_agreement": null
     },
@@ -497,7 +497,7 @@
     "p_max": 935,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-05T00:04:35.214739",
+    "calculation_timestamp": "2026-07-05T04:19:24.631962",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -515,7 +515,7 @@
       "id": "i162772521",
       "date": "2026-07-05T06:16:48",
       "type": "Run",
-      "name": "Morning Run",
+      "name": "Gold Coast Marathon 2026",
       "duration_hours": 3.15,
       "distance_km": 42.64,
       "tss": 273,
@@ -2310,7 +2310,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 624,
+      "steps": 40274,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
